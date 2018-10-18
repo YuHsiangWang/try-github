@@ -1,10 +1,7 @@
+# Table of contents
 
-[我的電力數位服務平台](https://mydata.taipower.com.tw/)
-[台電電子帳單平台](https://ebpps.taipower.com.tw/)
+* [Introduction](README.md)
+* [數位服務個人化\(My Data\)](mydata.md)
+* [OAuth2.0](oauth20.md)
+* [申請台電](apply.md)
 
----
-
-# 目錄
-* [數位服務個人化(My Data)](docs/mydata.md)
-* [OAuth2.0](docs/oauth20.md)
-* [申請台電](docs/apply.md)
